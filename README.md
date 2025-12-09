@@ -1,3 +1,5 @@
+Ссылка: https://denp0821.github.io/Pet1-Landing-Bootstrap/
+
 Данный мини-проект - первый опыт. :relaxed:  
 
 На момент начала работы я имел базовые представления о HTML и CSS, и только начинал осваивать JavaScript.  
